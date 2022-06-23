@@ -16,3 +16,4 @@ Integrando los contenidos vistos con GitHub y, en esta oportunidad Git, utilizar
 4. En la rama personal agregar su Curriculum Vitae (un archivo en formato .pdf) usando los comandos que hemos aprendido.
 5. Subir la rama personal al repositorio remoto.
 
+Actividades: [MÓDULO PROGRAMADOR](https://docs.google.com/document/u/2/d/e/2PACX-1vTecj7MGt5aLd4ibNmO90P4II0fp95asnwLAKM1twv-9dAkJIpqWc9rIe643ZInFJJLl85vaW_vr-IV/pub).
