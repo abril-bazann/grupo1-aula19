@@ -1,4 +1,4 @@
-# Conceptos
+# Conceptos de Scrum
 Ceremonias, Artefactos y Roles
 ## Ceremonias
 Ceremonias que se realizan a lo largo del proyecto:
